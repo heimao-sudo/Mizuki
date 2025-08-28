@@ -23,6 +23,8 @@ cover: ./cover-termux.png
 pkg update && pkg upgrade -y
 pkg install git curl wget -y
 jhgff
+
+```bash
 # Tips
 
 The first few notes should have given you an overview of the main functionalities of Joplin, but there's more it can do. See below for some of these features and how to get more help using the app:
