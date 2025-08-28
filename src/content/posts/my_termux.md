@@ -10,22 +10,6 @@ cover: ./cover-termux.png
 
 ---
 
-## 1 安装与初始化
-
-| 渠道 | 链接 |
-|---|---|
-| F-Droid（推荐） | https://f-droid.org/en/packages/com.termux/ |
-| GitHub Release | https://github.com/termux/termux-app/releases |
-
-安装后首次打开执行：
-
-```bash
-pkg update && pkg upgrade -y
-pkg install git curl wget -y
-jhgff
-
-```bash
-# Tips
 
 The first few notes should have given you an overview of the main functionalities of Joplin, but there's more it can do. See below for some of these features and how to get more help using the app:
 
