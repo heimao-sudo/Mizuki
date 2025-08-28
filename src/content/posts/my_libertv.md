@@ -5,6 +5,7 @@ pinned: true
 description: 利用 Cloudflare Pages 零成本、一键部署 LibreTV 在线影视搜索站，含自定义域名、密码保护及常见问题排查。
 tags: [LibreTV, Cloudflare, 部署教程, 影视站]
 category: 实战教程
+draft: false
 licenseName: "CC-BY-SA-4.0"
 author: your_name
 sourceLink: "https://github.com/LibreSpark/LibreTV"
