@@ -22,14 +22,15 @@ draft: false
 ## 🚀 Git 命令全集（每个都有详细注释）
 
 # ========== 基础配置 ==========
-git config --global user.name "你的名字"                    # 设置全局用户名，所有仓库生效
-git config --global user.email "your.email@example.com"   # 设置全局邮箱，用于提交记录
+  #git config --global user.name "你的名字"                    # 设置全局用户名，所有仓库生效
+  #git config --global user.email "your.email@example.com"   # 设置全局邮箱，用于提交记录
 git config --list                                         # 查看所有配置信息
 git config user.name                                      # 查看当前用户名
 git config user.name "本地名字"                           # 仅为当前仓库设置用户名
 git config user.email "local.email@example.com"           # 仅为当前仓库设置邮箱
 
 # ========== 仓库初始化 ==========
+```
 git init                                                  # 在当前目录初始化新的Git仓库
 git clone https://github.com/username/repository.git      # 克隆远程仓库到本地
 git clone https://github.com/username/repository.git my-folder  # 克隆到指定文件夹
