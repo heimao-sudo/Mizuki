@@ -4,6 +4,7 @@ published: 2025-12-29
 tags: [Git, 命令手册, 开发工具, 代码管理]  
 category: 开发工具  
 draft: false  
+image: "https://t.alcy.cc/pc"  
 ---  
   
 > 每个命令都有详细注释，复制即可使用，无需额外查找文档  
