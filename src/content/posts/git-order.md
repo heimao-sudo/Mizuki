@@ -11,7 +11,8 @@ draft: false
 ---  
   
 ## ========== 基础配置 ========== 
-```bash git config --global user.email "your.email@example.com"   # 设置全局邮箱，用于提交记录
+```bash
+git config --global user.email "your.email@example.com"   # 设置全局邮箱，用于提交记录
 ```
 
 `git config --list                                         # 查看所有配置信息`  
