@@ -1,5 +1,10 @@
-我来为您创建一个详细的nano编辑器使用教程的Markdown文档。
-
+---  
+title: Nano 编辑器教程  
+published: 2025-12-29  
+tags: [Nano, 命令手册, 开发工具, 代码编辑]  
+category: 编辑器  
+draft: false  
+---  
 Nano编辑器完整使用教程
 
 > 注意：本文档中的 `^` 表示 `Ctrl` 键，`M-` 表示 `Alt` 键（有时也可能是 `Esc` 或 `Cmd` 键）
