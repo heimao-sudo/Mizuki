@@ -3,7 +3,7 @@ title: Nano 编辑器教程
 published: 2025-12-29  
 tags: [Nano, 命令手册, 开发工具, 代码编辑]  
 category: 编辑器  
-image: "https://t.alcy.cc/pc"  
+image: "https://t.alcy.cc/moez"  
 draft: false  
 ---  
 # Nano编辑器完整使用教程
