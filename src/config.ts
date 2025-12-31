@@ -245,7 +245,7 @@ export const navBarConfig: NavBarConfig = {
                         children: [
                                 {
                                         name: "GitHub",
-                                        url: "https://github.com/matsuzaka-yuki/Mizuki",
+                                        url: "https://github.com/heimao-sudo/Mizuki",
                                         external: true,
                                         icon: "fa6-brands:github",
                                 },
@@ -255,12 +255,12 @@ export const navBarConfig: NavBarConfig = {
                                         external: true,
                                         icon: "fa6-brands:bilibili",
                                 },
-                                {
+                                /*{
                                         name: "Gitee",
                                         url: "https://gitee.com/matsuzakayuki/Mizuki",
                                         external: true,
                                         icon: "mdi:git",
-                                },
+                                },*/
                         ],
                 },
                 {
@@ -273,22 +273,22 @@ export const navBarConfig: NavBarConfig = {
                                         url: "/anime/",
                                         icon: "material-symbols:movie",
                                 },
-                                {
+                                /*{  //我的/日记页面
                                         name: "Diary",
                                         url: "/diary/",
                                         icon: "material-symbols:book",
-                                },
+                                },*/
                                 {
                                         name: "Gallery",
                                         url: "/albums/",
                                         icon: "material-symbols:photo-library",
                                 },
-                                {
+                                /*{ //设备页面导航按钮
                                         name: "Devices",
                                         url: "devices/",
                                         icon: "material-symbols:devices",
                                         external: false,
-                                },
+                                },*/
                         ],
                 },
                 {
