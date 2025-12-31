@@ -108,7 +108,7 @@ export const siteConfig: SiteConfig = {
                                 "https://t.alcy.cc/pc",
                                 "https://t.alcy.cc/moe",
                                 "https://t.alcy.cc/ys",
-                                "https://t.alcy.cc/acg"，
+                                "https://t.alcy.cc/acg",
                                 
                         ], // 移动横幅图片
                 }, // 使用本地横幅图片
