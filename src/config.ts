@@ -94,27 +94,29 @@ export const siteConfig: SiteConfig = {
                 // 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
                 src: {
                         desktop: [
-                                "/assets/desktop-banner/1.webp",
-                                "/assets/desktop-banner/2.webp",
-                                "/assets/desktop-banner/3.webp",
-                                "/assets/desktop-banner/4.webp",
-                                "/assets/desktop-banner/5.webp",
-                                "/assets/desktop-banner/6.webp",
+                                "https://t.alcy.cc/ycy",
+                                "https://t.alcy.cc/moez",
+                                "https://t.alcy.cc/ai",
+                                "https://t.alcy.cc/ysz",
+                                "https://t.alcy.cc/mp",
+                                "https://t.alcy.cc/moemp",
+                                "https://t.alcy.cc/aimp",
+                                
+                              
                         ], // 桌面横幅图片
                         mobile: [
-                                "/assets/mobile-banner/1.webp",
-                                "/assets/mobile-banner/2.webp",
-                                "/assets/mobile-banner/3.webp",
-                                "/assets/mobile-banner/4.webp",
-                                "/assets/mobile-banner/5.webp",
-                                "/assets/mobile-banner/6.webp",
+                                "https://t.alcy.cc/pc",
+                                "https://t.alcy.cc/moe",
+                                "https://t.alcy.cc/ys",
+                                "https://t.alcy.cc/acg"，
+                                
                         ], // 移动横幅图片
                 }, // 使用本地横幅图片
 
                 position: "center", // 等同于 object-position，仅支持 'top', 'center', 'bottom'。默认为 'center'
 
                 carousel: {
-                        enable: true, // 为 true 时：为多张图片启用轮播。为 false 时：从数组中随机显示一张图片
+                        enable: false,// 为 true 时：为多张图片启用轮播。为 false 时：从数组中随机显示一张图片
 
                         interval: 1.5, // 轮播间隔时间（秒）
                 },
