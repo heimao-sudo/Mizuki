@@ -105,7 +105,7 @@ export const siteConfig: SiteConfig = {
                               
                         ], // 桌面横幅图片
                         mobile: [
-                                "https://t.alcy.cc/pc",
+                                "https://t.alcy.cc/pc?t=1703861234",
                                 "https://t.alcy.cc/moe",
                                 "https://t.alcy.cc/ys",
                                 "https://t.alcy.cc/acg",
@@ -116,7 +116,7 @@ export const siteConfig: SiteConfig = {
                 position: "center", // 等同于 object-position，仅支持 'top', 'center', 'bottom'。默认为 'center'
 
                 carousel: {
-                        enable: false,// 为 true 时：为多张图片启用轮播。为 false 时：从数组中随机显示一张图片
+                        enable: ture,// 为 true 时：为多张图片启用轮播。为 false 时：从数组中随机显示一张图片
 
                         interval: 1.5, // 轮播间隔时间（秒）
                 },
